@@ -1,0 +1,12 @@
+C:\Users\Rian Barbosa\OneDrive - SENAC-SC\Área de Trabalho\test\Projeto\bin\Debug\net7.0\Projeto.deps.json
+C:\Users\Rian Barbosa\OneDrive - SENAC-SC\Área de Trabalho\test\Projeto\bin\Debug\net7.0\Projeto.dll
+C:\Users\Rian Barbosa\OneDrive - SENAC-SC\Área de Trabalho\test\Projeto\bin\Debug\net7.0\Projeto.pdb
+C:\Users\Rian Barbosa\OneDrive - SENAC-SC\Área de Trabalho\test\Projeto\obj\Debug\net7.0\Projeto.csproj.AssemblyReference.cache
+C:\Users\Rian Barbosa\OneDrive - SENAC-SC\Área de Trabalho\test\Projeto\obj\Debug\net7.0\Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rian Barbosa\OneDrive - SENAC-SC\Área de Trabalho\test\Projeto\obj\Debug\net7.0\Projeto.AssemblyInfoInputs.cache
+C:\Users\Rian Barbosa\OneDrive - SENAC-SC\Área de Trabalho\test\Projeto\obj\Debug\net7.0\Projeto.AssemblyInfo.cs
+C:\Users\Rian Barbosa\OneDrive - SENAC-SC\Área de Trabalho\test\Projeto\obj\Debug\net7.0\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Rian Barbosa\OneDrive - SENAC-SC\Área de Trabalho\test\Projeto\obj\Debug\net7.0\Projeto.dll
+C:\Users\Rian Barbosa\OneDrive - SENAC-SC\Área de Trabalho\test\Projeto\obj\Debug\net7.0\refint\Projeto.dll
+C:\Users\Rian Barbosa\OneDrive - SENAC-SC\Área de Trabalho\test\Projeto\obj\Debug\net7.0\Projeto.pdb
+C:\Users\Rian Barbosa\OneDrive - SENAC-SC\Área de Trabalho\test\Projeto\obj\Debug\net7.0\ref\Projeto.dll
